@@ -1,0 +1,47 @@
+#principal{
+    width: 500px;
+    height: 2000px;
+    background-color: aqua;
+    margin: auto;
+}
+#c1{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 300px;
+    top: 600px ;
+}
+#c2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(223, 156, 68);
+    position: relative;
+    left: 50px;
+}
+#c2-1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(168, 255, 236);
+    position: relative;
+    left: 50px;
+    top: 50px;
+    transform: rotate(45deg);
+    border-radius: 5px;
+}
+#c3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(56, 95, 59);
+    position: fixed;
+    top: 300px;
+
+}
+#c4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(68, 65, 240);
+    position: sticky;
+    top: 40px;
+    
+}
