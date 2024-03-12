@@ -1,0 +1,4 @@
+maaquetacion
+tablas-->frames--->css:display.
+position..... contenedores o cajas flecçibles(adaptables)
+flex-box
